@@ -1,6 +1,5 @@
 def main():
-    print('My first git program')
-    print('neer ger hon')
+    print('Yakutsk, Ammosov Vlad')
 
 
 if __name__ == '__main__':
